@@ -1,0 +1,122 @@
+[
+  {
+    "playerImage": "https://i.ibb.co/Pd0s5Sj/shakib-al-hasan.jpg",
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerRole": "All-rounder",
+    "rating": 8.7,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "price": "$150000"
+  },
+  {
+    "playerImage": "https://i.ibb.co/HD6mspyR/Tameem-Iqbal.jpg",
+    "playerName": "Tamim Iqbal",
+    "playerCountry": "Bangladesh",
+    "playerRole": "Batsman",
+    "rating": 7.4,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "$120000"
+  },
+  {
+    "playerImage": "https://i.ibb.co/FLkbjqdt/16-2312191615.jpg",
+    "playerName": "Mustafizur Rahman",
+    "playerCountry": "Bangladesh",
+    "playerRole": "Bowler",
+    "rating": 8.9,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "price": "$170000"
+  },
+  {
+    "playerImage": "https://i.ibb.co/Pd0s5Sj/shakib-al-hasan.jpg",
+    "playerName": "Mahmudullah Riyad",
+    "playerCountry": "Bangladesh",
+    "playerRole": "All-rounder",
+    "rating": 6.8,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "$110000"
+  },
+  {
+    "playerImage": "https://i.ibb.co/Pd0s5Sj/shakib-al-hasan.jpg",
+    "playerName": "Liton Das",
+    "playerCountry": "Bangladesh",
+    "playerRole": "Wicketkeeper-Batsman",
+    "rating": 7.2,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "N/A",
+    "price": "$130000"
+  },
+  {
+    "playerImage": "https://i.ibb.co/Pd0s5Sj/shakib-al-hasan.jpg",
+    "playerName": "Taskin Ahmed",
+    "playerCountry": "Bangladesh",
+    "playerRole": "Bowler",
+    "rating": 6.9,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": "$100000"
+  },
+  {
+    "playerImage": "https://i.ibb.co/Pd0s5Sj/shakib-al-hasan.jpg",
+    "playerName": "Andre Russell",
+    "playerCountry": "West Indies",
+    "playerRole": "All-rounder",
+    "rating": 8.4,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": "$200000"
+  },
+  {
+    "playerImage": "https://i.ibb.co/Pd0s5Sj/shakib-al-hasan.jpg",
+    "playerName": "Chris Gayle",
+    "playerCountry": "West Indies",
+    "playerRole": "Batsman",
+    "rating": 7.1,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "$180000"
+  },
+  {
+    "playerImage": "https://i.ibb.co/Pd0s5Sj/shakib-al-hasan.jpg",
+    "playerName": "Kieron Pollard",
+    "playerCountry": "West Indies",
+    "playerRole": "All-rounder",
+    "rating": 7.5,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium-fast",
+    "price": "$175000"
+  },
+  {
+    "playerImage": "https://i.ibb.co/Pd0s5Sj/shakib-al-hasan.jpg",
+    "playerName": "David Miller",
+    "playerCountry": "South Africa",
+    "playerRole": "Batsman",
+    "rating": 6.7,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "$140000"
+  },
+  {
+    "playerImage": "https://i.ibb.co/Pd0s5Sj/shakib-al-hasan.jpg",
+    "playerName": "Sam Curran",
+    "playerCountry": "England",
+    "playerRole": "All-rounder",
+    "rating": 7.6,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm medium-fast",
+    "price": "$160000"
+  },
+  {
+    "playerImage": "https://i.ibb.co/Pd0s5Sj/shakib-al-hasan.jpg",
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerRole": "Bowler",
+    "rating": 8.2,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Legbreak googly",
+    "price": "$190000"
+  }
+]
