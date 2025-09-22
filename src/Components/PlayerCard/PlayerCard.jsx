@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import userImg from "../../assets/User-1.png";
 import flagImg from "../../assets/report-1.png";
+import { toast } from "react-toastify";
 
 const PlayerCard = ({
   player,
@@ -16,9 +17,17 @@ const PlayerCard = ({
     const playerPrice = parseInt(playerData.price.split("$")[1]);
 
     if (availableBalance < playerPrice) {
-      alert("Not enough Coins available now !!");
+     toast("Not enough Coins available now !!");
       return;
     }
+    
+    if (purchasedPlayers.length === 6) {
+      toast("6 players already seleced!")
+      return
+    }
+
+
+
     setIsSelected(true), setAvailableBalance(availableBalance - playerPrice);
       
     //every single Data is pushed here, But this is  done in the  React's system. here playerData = every single data. 
